@@ -4,7 +4,7 @@ int main(){
 long int a, b=1;
 printf("program to print factorial of a number.\n");
 
-printf("My program");
+printf("My program jj");
 
 printf("\nenter the number that you want factorial of:\t");
 scanf("%ld",&a);
