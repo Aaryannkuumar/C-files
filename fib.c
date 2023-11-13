@@ -10,7 +10,7 @@ printf("\nEnter two numbers (range) for numbers printing:\n");
 
 scanf("%d %d",&num1,&num2);
 
-if(num1>num2)
+if(num1>num2)  // if 1st number entered is bigger than second this will make replace them.
 {
     int num3 = num1;
     num1=num2;
